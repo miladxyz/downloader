@@ -73,12 +73,16 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [master](https://github.com/miladxyz/downloader/tree/main/downloads/master)
+1. [chromium-release](https://github.com/miladxyz/downloader/tree/main/downloads/chromium-release)
 
-2. [mhr-cfw-go](https://github.com/miladxyz/downloader/tree/main/downloads/mhr-cfw-go)
+2. [master](https://github.com/miladxyz/downloader/tree/main/downloads/master)
 
-3. [v2rayN-windows-arm64-desktop](https://github.com/miladxyz/downloader/tree/main/downloads/v2rayN-windows-arm64-desktop)
+3. [mhr-cfw-go](https://github.com/miladxyz/downloader/tree/main/downloads/mhr-cfw-go)
+
+4. [v2rayN-windows-arm64-desktop](https://github.com/miladxyz/downloader/tree/main/downloads/v2rayN-windows-arm64-desktop)
 
 ---
