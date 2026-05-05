@@ -3,6 +3,7 @@
 - [chromium-release](./chromium-release)
 - [master](./master)
 - [mhr-cfw-go](./mhr-cfw-go)
+- [v2rayN-windows-64-desktop](./v2rayN-windows-64-desktop)
 - [v2rayN-windows-arm64-desktop](./v2rayN-windows-arm64-desktop)
 
 ---
